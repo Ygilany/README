@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
@@ -24,21 +23,27 @@ I am **A Technology Lead, Mentor, and Assistant Professor @ the University of Ci
 ### Tech Stack
 I work with many different technologies and languages, including:
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="50" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="50" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="50" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="50"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="50" /> &emsp;
 <img src="https://imgs.search.brave.com/0vD7x0VVQS_GWpicG8Nd1UFcP5EbvaNqc4Nr355PlR8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvamVz/dC1sb2dvLXBuZy10/cmFuc3BhcmVudC5w/bmc" title="Jest" alt="Jest Logo" width="50" /> &emsp;
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" title="Cypress" alt="Cypress Logo" width="50" /> &emsp;
 <img src="https://react-query-v2.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="React Query" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="50"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="50"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="postgresql" alt="postgresql Logo" width="50"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" title="mssql" alt="mssql Logo" width="50"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="50"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="50"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python Logo" width="50"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="50"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" title="rabbitmq" alt="rabbitmq Logo" width="50"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/redis.svg" title="redis" alt="redis Logo" width="50"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" title="Java" alt="Java Logo" width="50"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python Logo" width="50"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML Logo" width="50" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS Logo" width="50" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="SASS" alt="SASS Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="50"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python Logo" width="50"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/d3-2.svg" title="d3" alt="d3 Logo" width="50" /> &emsp;
 
 ### Contact
 <a href="https://www.linkedin.com/in/yahyagilany">
