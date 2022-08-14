@@ -74,6 +74,9 @@ I work with many different technologies and languages, including:
 <a href="https://www.instagram.com/ygilany">
   <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30" />
 </a> &ensp;
+<a href="https://www.youtube.com/channel/UCpQtf8kKyqGNqLGWOswVR-A">
+  <img src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" title="Instagram" alt="Instagram Account" width="30" />
+</a> &ensp;
 
 ### Stats
  
